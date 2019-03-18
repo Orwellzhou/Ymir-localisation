@@ -1,50 +1,50 @@
 #b_menu_tutorial
-TUTORIAL
+教程
 
 #b_menu_newgame
-NEW GAME
+新游戏
 
 #b_menu_load
-LOAD GAME
+加载游戏
 
 #b_menu_join
-JOIN GAME
+加入游戏
 
 #b_menu_editor
-EDITOR
+编辑
 
 #b_menu_options
-SETTINGS
+设置
 
 #b_menu_quit
-QUIT
+退出
 
 #b_menu_resume
-RESUME
+恢复
 
 #b_menu_tomain
-TO MAIN MENU
+返回主菜单
 
 #b_menu_discord_1
-Ymir official Discord
+官方Discord
 
 #b_menu_discord_2
-Join the Ymir community!
+加入Ymir社区!
 
 #b_menu_porcopedia_1
 Porcopedia
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+官方在线维基
 
 #b_menu_trell_1
 Ymir on Trello
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+订阅游戏的发展并参与未来更新的投票
 
 #ui_tomainvalid
-Do you really want to leave and return to the main menu ?
+你真的想离开并返回主菜单吗?
 
 #ui_connctstat_1
 Currently connected to [x]  ping: [y]
@@ -3935,7 +3935,7 @@ The trade route operator is the city dealing with the transportation of the good
 It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route�s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+The cost of cargo is exponential to the trade routes distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
 
 #ui_troute_vol
 Cargo volume
@@ -4049,7 +4049,7 @@ Militia
 A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
 
 #menu_nfrm_t2_dscr2
-Militias don�t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+Militias dont monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
 
 #menu_nfrm_t2_dscr3
 However , the militia cannot move to other territory s and decreases the state authority.
